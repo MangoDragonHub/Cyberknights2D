@@ -1132,7 +1132,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 008c0b3b6e393e24f986bb15bd56b1bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CreditsPanel: {fileID: 0}
+  CreditsPanel: {fileID: 1981005786}
   isPanelOpen: 0
 --- !u!1 &1781989653
 GameObject:
